@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>NpLauncher2</Name>
+  <DisplayName>NoPixelLauncher2</DisplayName>
+  <Description/>
+  <Version>2.1.0</Version>
+  <ReleaseDate>2020-03-27</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="77527818" CompressedSize="26627058" OS="Any"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforminputcontexts.7z,platforms.7z,qmltooling.7z,scenegraph.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>b8f82785b63f0e9949ddf2f6d4a7bc871607011f</SHA1>
+ </PackageUpdate>
+</Updates>
